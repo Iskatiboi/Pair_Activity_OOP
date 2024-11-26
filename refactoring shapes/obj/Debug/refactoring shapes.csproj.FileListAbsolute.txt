@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\refactoring shapes\bin\Debug\refactoring shapes.exe.config
+C:\Users\admin\Desktop\refactoring shapes\bin\Debug\refactoring shapes.exe
+C:\Users\admin\Desktop\refactoring shapes\bin\Debug\refactoring shapes.pdb
+C:\Users\admin\Desktop\refactoring shapes\obj\Debug\refactoring shapes.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\refactoring shapes\obj\Debug\refactoring shapes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\refactoring shapes\obj\Debug\refactoring shapes.exe
+C:\Users\admin\Desktop\refactoring shapes\obj\Debug\refactoring shapes.pdb
