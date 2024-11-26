@@ -1,0 +1,14 @@
+C:\Users\Ryzen\Desktop\GAME CHARACTER\Pair_Activity\bin\Debug\Pair_Activity.exe.config
+C:\Users\Ryzen\Desktop\GAME CHARACTER\Pair_Activity\bin\Debug\Pair_Activity.exe
+C:\Users\Ryzen\Desktop\GAME CHARACTER\Pair_Activity\bin\Debug\Pair_Activity.pdb
+C:\Users\Ryzen\Desktop\GAME CHARACTER\Pair_Activity\obj\Debug\Pair_Activity.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\GAME CHARACTER\Pair_Activity\obj\Debug\Pair_Activity.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\GAME CHARACTER\Pair_Activity\obj\Debug\Pair_Activity.exe
+C:\Users\Ryzen\Desktop\GAME CHARACTER\Pair_Activity\obj\Debug\Pair_Activity.pdb
+C:\Users\Ryzen\Desktop\PAIR ACTIVITY OOP\Pair_Activity\bin\Debug\Pair_Activity.exe.config
+C:\Users\Ryzen\Desktop\PAIR ACTIVITY OOP\Pair_Activity\bin\Debug\Pair_Activity.exe
+C:\Users\Ryzen\Desktop\PAIR ACTIVITY OOP\Pair_Activity\bin\Debug\Pair_Activity.pdb
+C:\Users\Ryzen\Desktop\PAIR ACTIVITY OOP\Pair_Activity\obj\Debug\Pair_Activity.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\PAIR ACTIVITY OOP\Pair_Activity\obj\Debug\Pair_Activity.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\PAIR ACTIVITY OOP\Pair_Activity\obj\Debug\Pair_Activity.exe
+C:\Users\Ryzen\Desktop\PAIR ACTIVITY OOP\Pair_Activity\obj\Debug\Pair_Activity.pdb
